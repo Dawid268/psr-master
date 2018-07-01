@@ -1,0 +1,22 @@
+C:\Users\dawid\Documents\Projekty GIT\psr2\clientNetF4\obj\Debug\clientNetF4.csprojAssemblyReference.cache
+C:\Users\dawid\Documents\Projekty GIT\psr2\clientNetF4\obj\Debug\clientNetF4.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Documents\Projekty GIT\psr2\clientNetF4\bin\Debug\clientNetF4.exe.config
+C:\Users\dawid\Documents\Projekty GIT\psr2\clientNetF4\bin\Debug\clientNetF4.exe
+C:\Users\dawid\Documents\Projekty GIT\psr2\clientNetF4\bin\Debug\clientNetF4.pdb
+C:\Users\dawid\Documents\Projekty GIT\psr2\clientNetF4\bin\Debug\Graph.exe
+C:\Users\dawid\Documents\Projekty GIT\psr2\clientNetF4\bin\Debug\Graph.pdb
+C:\Users\dawid\Documents\Projekty GIT\psr2\clientNetF4\obj\Debug\clientNetF4.csproj.CopyComplete
+C:\Users\dawid\Documents\Projekty GIT\psr2\clientNetF4\obj\Debug\clientNetF4.exe
+C:\Users\dawid\Documents\Projekty GIT\psr2\clientNetF4\obj\Debug\clientNetF4.pdb
+C:\Users\dawid\Documents\Projekty GIT\psr2\clientNetF4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dawid\Downloads\psr-master\psr-master\clientNetF4\bin\Debug\clientNetF4.exe.config
+C:\Users\dawid\Downloads\psr-master\psr-master\clientNetF4\obj\Debug\clientNetF4.exe
+C:\Users\dawid\Downloads\psr-master\psr-master\clientNetF4\obj\Debug\clientNetF4.pdb
+C:\Users\dawid\Downloads\psr-master\psr-master\clientNetF4\bin\Debug\clientNetF4.exe
+C:\Users\dawid\Downloads\psr-master\psr-master\clientNetF4\bin\Debug\clientNetF4.pdb
+C:\Users\dawid\Downloads\psr-master\psr-master\clientNetF4\bin\Debug\Graph.exe
+C:\Users\dawid\Downloads\psr-master\psr-master\clientNetF4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dawid\Downloads\psr-master\psr-master\clientNetF4\bin\Debug\System.Net.Http.dll
+C:\Users\dawid\Downloads\psr-master\psr-master\clientNetF4\bin\Debug\Graph.pdb
+C:\Users\dawid\Downloads\psr-master\psr-master\clientNetF4\bin\Debug\System.Net.Http.xml
+C:\Users\dawid\Downloads\psr-master\psr-master\clientNetF4\obj\Debug\clientNetF4.csprojResolveAssemblyReference.cache

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{95A39C01-0E6D-4E22-9FF4-97154543561C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clientNetF4", "clientNetF4\clientNetF4.csproj", "{6F9D68CE-F0BE-4E8B-9F71-50FC0F9759B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client2", "Client2\Client2.csproj", "{F48A020D-0912-4C7A-9854-08D9E3146B30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95A39C01-0E6D-4E22-9FF4-97154543561C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A39C01-0E6D-4E22-9FF4-97154543561C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A39C01-0E6D-4E22-9FF4-97154543561C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A39C01-0E6D-4E22-9FF4-97154543561C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F9D68CE-F0BE-4E8B-9F71-50FC0F9759B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9D68CE-F0BE-4E8B-9F71-50FC0F9759B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9D68CE-F0BE-4E8B-9F71-50FC0F9759B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9D68CE-F0BE-4E8B-9F71-50FC0F9759B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F48A020D-0912-4C7A-9854-08D9E3146B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48A020D-0912-4C7A-9854-08D9E3146B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48A020D-0912-4C7A-9854-08D9E3146B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48A020D-0912-4C7A-9854-08D9E3146B30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD2E6036-C12E-4617-A953-4403DC0BFA76}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,79 @@
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\Graph\Graph\obj\Debug\Graph.csprojResolveAssemblyReference.cache
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\Graph\Graph\obj\Debug\Graph.Form1.resources
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\Graph\Graph\obj\Debug\Graph.Properties.Resources.resources
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\Graph\Graph\obj\Debug\Graph.csproj.GenerateResource.Cache
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\Graph\Graph\bin\Debug\Graph.exe
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\Graph\Graph\bin\Debug\Graph.pdb
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\Graph\Graph\obj\Debug\Graph.exe
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\Graph\Graph\obj\Debug\Graph.pdb
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\2\Graph\Graph\obj\Debug\Graph.exe
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\2\Graph\Graph\obj\Debug\Graph.pdb
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\2\Graph\Graph\bin\Debug\Graph.exe
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\2\Graph\Graph\bin\Debug\Graph.pdb
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\2\Graph\Graph\obj\Debug\Graph.csprojResolveAssemblyReference.cache
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\2\Graph\Graph\obj\Debug\Graph.Form1.resources
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\2\Graph\Graph\obj\Debug\Graph.Properties.Resources.resources
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\2\Graph\Graph\obj\Debug\Graph.csproj.GenerateResource.Cache
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\3\Graph\Graph\obj\Debug\Graph.exe
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\3\Graph\Graph\obj\Debug\Graph.pdb
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\3\Graph\Graph\bin\Debug\Graph.exe
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\3\Graph\Graph\bin\Debug\Graph.pdb
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\3\Graph\Graph\obj\Debug\Graph.csprojResolveAssemblyReference.cache
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\3\Graph\Graph\obj\Debug\Graph.Form1.resources
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\3\Graph\Graph\obj\Debug\Graph.Properties.Resources.resources
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\3\Graph\Graph\obj\Debug\Graph.csproj.GenerateResource.Cache
+C:\Users\dawid\Documents\graph (3)\Graph\Graph\bin\Debug\Graph.exe
+C:\Users\dawid\Documents\graph (3)\Graph\Graph\bin\Debug\Graph.pdb
+C:\Users\dawid\Documents\graph (3)\Graph\Graph\obj\Debug\Graph.csprojResolveAssemblyReference.cache
+C:\Users\dawid\Documents\graph (3)\Graph\Graph\obj\Debug\Graph.Form1.resources
+C:\Users\dawid\Documents\graph (3)\Graph\Graph\obj\Debug\Graph.Properties.Resources.resources
+C:\Users\dawid\Documents\graph (3)\Graph\Graph\obj\Debug\Graph.csproj.GenerateResource.cache
+C:\Users\dawid\Documents\graph (3)\Graph\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Documents\graph (3)\Graph\Graph\obj\Debug\Graph.exe
+C:\Users\dawid\Documents\graph (3)\Graph\Graph\obj\Debug\Graph.pdb
+E:\Graph-2\Graph\bin\Debug\Graph.exe
+E:\Graph-2\Graph\bin\Debug\Graph.pdb
+E:\Graph-2\Graph\obj\Debug\Graph.csprojResolveAssemblyReference.cache
+E:\Graph-2\Graph\obj\Debug\Graph.Form1.resources
+E:\Graph-2\Graph\obj\Debug\Graph.Properties.Resources.resources
+E:\Graph-2\Graph\obj\Debug\Graph.csproj.GenerateResource.cache
+E:\Graph-2\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+E:\Graph-2\Graph\obj\Debug\Graph.exe
+E:\Graph-2\Graph\obj\Debug\Graph.pdb
+C:\Users\dawid\Documents\Projekty GIT\psr\Graph\bin\Debug\Graph.exe
+C:\Users\dawid\Documents\Projekty GIT\psr\Graph\bin\Debug\Graph.pdb
+C:\Users\dawid\Documents\Projekty GIT\psr\Graph\obj\Debug\Graph.csprojResolveAssemblyReference.cache
+C:\Users\dawid\Documents\Projekty GIT\psr\Graph\obj\Debug\Graph.Form1.resources
+C:\Users\dawid\Documents\Projekty GIT\psr\Graph\obj\Debug\Graph.Properties.Resources.resources
+C:\Users\dawid\Documents\Projekty GIT\psr\Graph\obj\Debug\Graph.csproj.GenerateResource.cache
+C:\Users\dawid\Documents\Projekty GIT\psr\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Documents\Projekty GIT\psr\Graph\obj\Debug\Graph.exe
+C:\Users\dawid\Documents\Projekty GIT\psr\Graph\obj\Debug\Graph.pdb
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\github\psr\Graph\obj\Debug\Graph.exe
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\github\psr\Graph\obj\Debug\Graph.pdb
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\github\psr\Graph\bin\Debug\Graph.exe
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\github\psr\Graph\bin\Debug\Graph.pdb
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\github\psr\Graph\obj\Debug\Graph.csprojResolveAssemblyReference.cache
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\github\psr\Graph\obj\Debug\Graph.Form1.resources
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\github\psr\Graph\obj\Debug\Graph.Properties.Resources.resources
+C:\M\zgrywane\studia\PS\1_semestr\programowanie_systemow_rozproszonych\PROJEKT\github\psr\Graph\obj\Debug\Graph.csproj.GenerateResource.Cache
+C:\Users\dawid\Documents\Projekty GIT\psr2\Graph\bin\Debug\Graph.exe
+C:\Users\dawid\Documents\Projekty GIT\psr2\Graph\bin\Debug\Graph.pdb
+C:\Users\dawid\Documents\Projekty GIT\psr2\Graph\obj\Debug\Graph.Form1.resources
+C:\Users\dawid\Documents\Projekty GIT\psr2\Graph\obj\Debug\Graph.Properties.Resources.resources
+C:\Users\dawid\Documents\Projekty GIT\psr2\Graph\obj\Debug\Graph.csproj.GenerateResource.cache
+C:\Users\dawid\Documents\Projekty GIT\psr2\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Documents\Projekty GIT\psr2\Graph\obj\Debug\Graph.exe
+C:\Users\dawid\Documents\Projekty GIT\psr2\Graph\obj\Debug\Graph.pdb
+C:\Users\dawid\Documents\Projekty GIT\psr2\Graph\obj\Debug\Graph.csprojAssemblyReference.cache
+C:\Users\dawid\Documents\Projekty GIT\psr2\Graph\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dawid\Documents\Projekty GIT\psr2\Graph\obj\Debug\Graph.csproj.CopyComplete
+C:\Users\dawid\Downloads\psr-master\psr-master\Graph\obj\Debug\Graph.exe
+C:\Users\dawid\Downloads\psr-master\psr-master\Graph\obj\Debug\Graph.pdb
+C:\Users\dawid\Downloads\psr-master\psr-master\Graph\bin\Debug\Graph.exe
+C:\Users\dawid\Downloads\psr-master\psr-master\Graph\bin\Debug\Graph.pdb
+C:\Users\dawid\Downloads\psr-master\psr-master\Graph\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dawid\Downloads\psr-master\psr-master\Graph\obj\Debug\Graph.Form1.resources
+C:\Users\dawid\Downloads\psr-master\psr-master\Graph\obj\Debug\Graph.Properties.Resources.resources
+C:\Users\dawid\Downloads\psr-master\psr-master\Graph\obj\Debug\Graph.csproj.GenerateResource.Cache
+C:\Users\dawid\Downloads\psr-master\psr-master\Graph\obj\Debug\Graph.csprojResolveAssemblyReference.cache

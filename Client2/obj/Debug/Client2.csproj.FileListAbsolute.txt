@@ -1,0 +1,8 @@
+C:\Users\dawid\Downloads\psr-master\psr-master\Client2\bin\Debug\Client2.exe.config
+C:\Users\dawid\Downloads\psr-master\psr-master\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+C:\Users\dawid\Downloads\psr-master\psr-master\Client2\bin\Debug\Client2.exe
+C:\Users\dawid\Downloads\psr-master\psr-master\Client2\bin\Debug\Client2.pdb
+C:\Users\dawid\Downloads\psr-master\psr-master\Client2\bin\Debug\Graph.exe
+C:\Users\dawid\Downloads\psr-master\psr-master\Client2\bin\Debug\Graph.pdb
+C:\Users\dawid\Downloads\psr-master\psr-master\Client2\obj\Debug\Client2.exe
+C:\Users\dawid\Downloads\psr-master\psr-master\Client2\obj\Debug\Client2.pdb
